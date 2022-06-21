@@ -42,3 +42,7 @@ Commit these changes to your local repo. How?
 4. Type a message in “Commit message”, such as “Commit from RStudio”.
 5. Click “Commit”
 
+Next, sync with online version on Github:
+1. pull any changes from collaborators (click the blue "Pull button")
+2. push new local changes (green "Push")
+
