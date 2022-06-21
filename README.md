@@ -43,6 +43,6 @@ Commit these changes to your local repo. How?
 5. Click “Commit”
 
 Next, sync with online version on Github:
-1. pull any changes from collaborators (click the blue "Pull button")
+1. pull any changes from collaborators (click the blue "Pull" button)
 2. push new local changes (green "Push")
 
